@@ -25,5 +25,5 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 document.getElementById('purchase-button').addEventListener('click', function() {
-  window.location.href="https://buy.stripe.com/aEUdULdYu12i6CQ8wF";
+  window.location.href="https://buy.stripe.com/5kAcQH4nUeT8gdq14k";
 });
