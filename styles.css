@@ -525,14 +525,14 @@ footer {
 .product-options label {
   margin-right: 10px;
   font-size: 16px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-family: Georgia, 'Times New Roman', Times, serif;font-weight: 900;
   
 }
 .product-options select {
   font-size: 16px;
   padding: 5px;
   background-color: #000000;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;font-weight: 900;
   color: white;
 }
 .product-options p {
