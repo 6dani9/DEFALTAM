@@ -132,6 +132,7 @@ nav ul {
   font-size: 34px;
 }
 .button{
+    font-family: Georgia, 'Times New Roman', Times, serif;font-weight: 900;
   font-size: 34px;
   display: inline-block;
   position: relative;
