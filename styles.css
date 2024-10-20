@@ -500,7 +500,7 @@ footer {
 }
 
 .product-name {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+ font-family: Georgia, 'Times New Roman', Times, serif;font-weight: 900;
   font-size: 30px;
   margin-top: 0;
   color: rgb(0, 0, 0);
